@@ -64,7 +64,7 @@ public class UploadController {
             return Result.success(url);
         }
 
-        return Result.error("上传失败 ...");
+        return Result.error("上传失败 .....");
 
     }
 
